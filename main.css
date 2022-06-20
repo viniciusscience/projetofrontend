@@ -19,7 +19,9 @@ div {
 
 .campo {
   padding: 4px;
+
   border-radius: 10px;
+  width: 400px;
 }
 .campo:hover {
   background-color: aqua;
